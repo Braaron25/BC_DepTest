@@ -6,7 +6,7 @@
             "repo": "https://github.com/Braaron25/BC_Test",
             "version": "latest",
             "release_status": "release",
-            "authTokenSecret": "",
+            "authTokenSecret": "BC_TEST",
             "projects": "*"
         }
     ]
