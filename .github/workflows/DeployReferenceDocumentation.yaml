@@ -19,7 +19,7 @@ env:
 
 jobs:
   DeployALDoc:
-    runs-on: self-hosted
+    runs-on: [self-hosted]
     name: Deploy Reference Documentation
     environment:
       name: github-pages
