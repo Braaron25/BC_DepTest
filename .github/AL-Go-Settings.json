@@ -8,5 +8,6 @@
             "release_status": "release",
             "projects": "*"
         }
-    ]
+    ],
+    "gitHubRunner": "self-hosted"
 }
